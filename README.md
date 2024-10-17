@@ -5,3 +5,7 @@ Lab apresentando a interface e e diversas ferramentas que estão disponíveis de
 
 Beneficios da nuvem como escalabilidade, elasticidade e confiabilidade.
 Conceitos de SLA e criação de máquinas virtuais.
+
+Modelos de serviço em nuvem, IaaS, Paas e SaaS e casos de uso.
+Conceito da responsabilidade compartilhada.
+Prévia da criação de uma máquina virtual.
