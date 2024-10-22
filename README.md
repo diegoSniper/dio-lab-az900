@@ -15,3 +15,6 @@ Regiões, zonas de disponibilidade, proteção contra indisponibilidades (redund
 Pares de regiões e regiões soberanas.
 
 Criação de um grupo de recursos no azure.
+
+Laboratório
+Criação e configuração de máquinas virtuais, dimensionamentos e pools.
