@@ -18,3 +18,14 @@ Criação de um grupo de recursos no azure.
 
 Laboratório
 Criação e configuração de máquinas virtuais, dimensionamentos e pools.
+
+Laboratório
+Criação de conta de armazenamento, utilizar nomes padrões em caixa baixa.
+Modelos de desempenho recomendados para cada uso.
+
+Identidade acessos e segurança
+Serviço de gerenciamento de identidade Microsoft Entra.
+Apresentação a serviços de diretórios, métodos de autenticação, identidades externas e convidados;
+Conceitos de confiança zero.
+Modelos de defesa em profundiade.
+Qual a finalidade do microsoft defender para nuvem.
